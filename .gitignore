@@ -1,0 +1,17 @@
+.pyc
+.pyo
+*.log
+*.sqlite3
+*.sqlite3-journal
+.env
+__pycache__/
+staticfiles/
+media/
+.isort.cfg
+guide.txt
+celerybeat.pid
+celerybeat-schedule
+celerybeat-schedule.bak
+celerybeat-schedule.dat
+celerybeat-schedule.dir
+env
